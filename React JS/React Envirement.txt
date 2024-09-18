@@ -1,0 +1,32 @@
+Program: Visual Studio Code
+Environment: Node JS
+
+first open project folder in vs code 
+then open terminal check if evry dependencies is installed
+node -v
+npm -v
+npx -v
+
+to create a react app write in terminal
+ex : npx create-react-app "project name"
+npx create-react-app react01
+
+
+after the proccess complete
+start the local server by entering first the file project in terminal
+ex: cd "project name"
+cd react01
+
+npm start
+--------------------------------------------------------------------------------------------
+to start purly 
+the folowed structure of react not completly needed
+so just kepp thos files and folders and delete the rest
+--React01
+ |--node_modules
+ |--public
+  |--index.html
+ |--src
+  |--index.js
+ |--package-lock.json
+ |--package-json

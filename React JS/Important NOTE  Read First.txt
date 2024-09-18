@@ -1,0 +1,6 @@
+before use any project 
+i delete the nod module package to decrease the size of file
+to run the project normaly
+after you open the project in the vs code use 
+npm install
+it will automaticly install the dependencies in the json file
